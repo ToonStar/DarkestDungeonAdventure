@@ -1,2 +1,2 @@
 # DarkestDungeonAdventure
-ToonStar &amp; Bombenstein`s DD adventure!
+ToonStar and Bombenstein`s adventure in the Darkest of Dundeons
